@@ -1,0 +1,140 @@
+{
+  "Users": {
+    "Bero": {
+      "Username": "Bero",
+      "Password": "$2a$10$ovl4St7paWcUHhYoHiv46eofcQmvrf9hBNl4.b4kXmTNibs7aYPJ2",
+      "Role": "user",
+      "Status": "pending",
+      "Name": "",
+      "Surname": "",
+      "FavAnimal": "",
+      "FavMovie": "",
+      "YearOfBirth": "",
+      "CityOfBirth": "",
+      "FootballTeam": ""
+    },
+    "FangYuan": {
+      "Username": "FangYuan",
+      "Password": "$2a$10$YR1k6ISn21T6G5pzNrNGf.6bL4NXFqcRSHxU5LW7BSEesARWs.Zai",
+      "Role": "admin",
+      "Status": "approved",
+      "Name": "Fang",
+      "Surname": "Yuan",
+      "FavAnimal": "Wolf",
+      "FavMovie": "Dune",
+      "YearOfBirth": "2001",
+      "CityOfBirth": "Kaskelen",
+      "FootballTeam": "Fenerbah�e"
+    },
+    "at": {
+      "Username": "at",
+      "Password": "$2a$10$9PhJo0UBY3bm/.tiaj04RO/Pm/UPg.wxj6FieKGJhZNDZzqfjDAWy",
+      "Role": "user",
+      "Status": "pending",
+      "Name": "",
+      "Surname": "",
+      "FavAnimal": "",
+      "FavMovie": "",
+      "YearOfBirth": "",
+      "CityOfBirth": "",
+      "FootballTeam": ""
+    },
+    "ber": {
+      "Username": "ber",
+      "Password": "$2a$10$/Bym5lP5kbHM5.ts3Nv5be8xlg1TXoWCfSax7Ullmx3wEirVCdduG",
+      "Role": "user",
+      "Status": "pending",
+      "Name": "",
+      "Surname": "",
+      "FavAnimal": "",
+      "FavMovie": "",
+      "YearOfBirth": "",
+      "CityOfBirth": "",
+      "FootballTeam": ""
+    },
+    "bero": {
+      "Username": "bero",
+      "Password": "$2a$10$qIYpP7JKly1tm2ra1eYfyOuMATPvi/yUtCqnGqqE7l/Xyk6amFmqe",
+      "Role": "user",
+      "Status": "pending",
+      "Name": "sdss",
+      "Surname": "rerere",
+      "FavAnimal": "qweqwewq",
+      "FavMovie": "xcvcxvcx",
+      "YearOfBirth": "fgfgfd",
+      "CityOfBirth": "ads",
+      "FootballTeam": "wwww"
+    },
+    "fang": {
+      "Username": "fang",
+      "Password": "$2a$10$zeOe7.gzP/nyQ5N2ID1Pue1wPTDGmRcpXKWpIzmVzvjaXymj2V4xi",
+      "Role": "user",
+      "Status": "pending",
+      "Name": "s",
+      "Surname": "sd",
+      "FavAnimal": "sd",
+      "FavMovie": "sd",
+      "YearOfBirth": "s",
+      "CityOfBirth": "ds",
+      "FootballTeam": "s"
+    },
+    "muh": {
+      "Username": "muh",
+      "Password": "$2a$10$gzngcM02TPs/S7ekTOYLe.WLVnt5zACV.Nm7ubtY/Tb9zI/ZlKgVC",
+      "Role": "user",
+      "Status": "pending",
+      "Name": "",
+      "Surname": "",
+      "FavAnimal": "",
+      "FavMovie": "",
+      "YearOfBirth": "",
+      "CityOfBirth": "",
+      "FootballTeam": ""
+    },
+    "rex": {
+      "Username": "rex",
+      "Password": "$2a$10$0RZBjYVvHxrrvIwNKO/afe.m/HD8q/RpuX.BvnYX9O4h6Lh10li6C",
+      "Role": "user",
+      "Status": "pending",
+      "Name": "",
+      "Surname": "",
+      "FavAnimal": "",
+      "FavMovie": "",
+      "YearOfBirth": "",
+      "CityOfBirth": "",
+      "FootballTeam": ""
+    }
+  },
+  "Blogs": {
+    "1729793489557240500": {
+      "ID": "1729793489557240500",
+      "Author": "FangYuan",
+      "Title": "Apnea",
+      "Text": "Apnea should be detected"
+    },
+    "1729844841495063200": {
+      "ID": "1729844841495063200",
+      "Author": "bero",
+      "Title": "rex",
+      "Text": "tex"
+    },
+    "1729849718502129300": {
+      "ID": "1729849718502129300",
+      "Author": "bero",
+      "Title": "mex",
+      "Text": "reddddddddddddddddddddddddddddddddddddd"
+    },
+    "1729850433146990300": {
+      "ID": "1729850433146990300",
+      "Author": "fang",
+      "Title": "sdsdsadsds",
+      "Text": "sdsadasdsdsdsadsdadsds"
+    },
+    "1730292737694021700": {
+      "ID": "1730292737694021700",
+      "Author": "FangYuan",
+      "Title": "Ugur",
+      "Text": "\ufffdok kotu bir Yapay zeka arastirmacisi"
+    }
+  }
+}
